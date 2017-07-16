@@ -25,7 +25,7 @@ Install dependencies using [pip](https://pip.pypa.io/en/stable/).
 
 I used the dataset provided by Ford Motor Company (input/ford_train.csv and input/ford_test.csv) with 604,329 observations (trials experiments) and 32 attributes.
 
-- The first column is the **Trial ID** - each period of around 2 minutes of sequential data has a unique trial ID. For instance, the first 1210 observations represent sequential observations every 100ms, and therefore all have the same trial ID.
+- The first column is the **trial id** - each period of around 2 minutes of sequential data has a unique trial ID. For instance, the first 1210 observations represent sequential observations every 100ms, and therefore all have the same trial ID.
 - The second column is the **observation number** - this is a sequentially increasing number within one trial ID.
 - The third column has a value **X** for each row where:
 
