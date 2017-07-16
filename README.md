@@ -36,6 +36,8 @@ I used the dataset provided by Ford Motor Company (input/ford_train.csv and inpu
 - The next 11 columns with headers E1, E2, …….., E11  represent **environmental data**.
 - The next 11 columns with headers V1, V2, …….., V11  represent **vehicular data**.
 
+_**Note:** The actual names and measurement units of the physiological, environmental and vehicular data are not disclosed in this challenge._
+
 ## Predictions
 
 The predictions for each model can be found as follows:
