@@ -45,3 +45,7 @@ The predictions for each model can be found as follows:
 | ------------- | ------------- |
 | Decision Tree Classifier  | /dtree.csv  |
 | Random Forest Classifier  | /rfc.csv  |
+
+## Usage
+
+Run the notebook on a localhost server using `jupyter notebook`.
